@@ -2,3 +2,9 @@
 # .tfstate files
 *.tfstate
 *.tfstate.
+
+*.tfvars
+!*.tfvars.example
+.env
+.env.*
+!.env.example
