@@ -4,6 +4,7 @@
 [![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazonaws)](https://aws.amazon.com/)
 [![Kubernetes](https://img.shields.io/badge/Platform-EKS-326CE5?logo=kubernetes)](https://aws.amazon.com/eks/)
 [![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-D24939?logo=jenkins)](https://www.jenkins.io/)
+[![Terraform CI](https://github.com/fadyy2k/depi-helloapp-infra-v2/actions/workflows/terraform-ci.yml/badge.svg)](https://github.com/fadyy2k/depi-helloapp-infra-v2/actions/workflows/terraform-ci.yml)
 
 Terraform-based AWS infrastructure lab for the DEPI DevOps track. The repository focuses on modular infrastructure, EKS, networking, IAM, security groups, remote state, and Jenkins-driven Terraform workflows.
 
